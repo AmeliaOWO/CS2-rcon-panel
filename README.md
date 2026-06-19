@@ -1,6 +1,8 @@
+> 💡 **声明：** 本项目灵感来源于 [fpaezf/CS2-RCON-Tool-V2](https://github.com/fpaezf/CS2-RCON-Tool-V2)，属于纯 **vibe coding** 作品喵～ 如果觉得不好用的话，可以去支持一下原项目哦！
+
 # CS2 RCON Server Manager 🐱
 
-✨ **超可爱** 的 CS2 服务器管理面板，基于 **Source RCON 协议**，用 **C++17** + **Dear ImGui** + **GLFW** + **OpenGL** 打造的说～喵！
+一个 **Source RCON 协议** 的 CS2 服务器管理面板，使用 **C++17** + **Dear ImGui** + **GLFW** + **OpenGL** 开发的说～喵！
 
 ## ✨ 功能一览
 
