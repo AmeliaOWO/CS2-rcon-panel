@@ -1,4 +1,4 @@
-> 💡 **声明：** 本项目灵感来源于 [fpaezf/CS2-RCON-Tool-V2](https://github.com/fpaezf/CS2-RCON-Tool-V2)，属于纯 **vibe coding** 作品喵～ 如果觉得不好用的话，可以去支持一下原项目哦！
+> 💡 **声明：** 本项目灵感来源于 [fpaezf/CS2-RCON-Tool-V2](https://github.com/fpaezf/Counter-Strike-dedicated-server-admin-tool)，属于纯 **vibe coding** 作品喵～ 如果觉得不好用的话，可以去支持一下原项目哦！
 
 # CS2 RCON Server Manager 🐱
 
